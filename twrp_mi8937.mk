@@ -7,7 +7,7 @@
 PRODUCT_RELEASE_NAME := mi8937
 
 # Kernel
-TARGET_KERNEL_VERSION := 4.9
+TARGET_KERNEL_VERSION := 4.19
 
 # Inherit from mi8937 device
 $(call inherit-product, device/xiaomi/mi8937/device.mk)
