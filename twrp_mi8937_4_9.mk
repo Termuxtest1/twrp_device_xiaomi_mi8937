@@ -4,10 +4,10 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-PRODUCT_RELEASE_NAME := mi8937_4_19
+PRODUCT_RELEASE_NAME := mi8937_4_9
 
 # Kernel
-TARGET_KERNEL_VERSION := 4.19
+TARGET_KERNEL_VERSION := 4.9
 
 # Inherit from mi8937 device
 $(call inherit-product, device/xiaomi/mi8937/device.mk)
